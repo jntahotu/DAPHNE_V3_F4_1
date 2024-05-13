@@ -1,0 +1,184 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"1.52286",
+   "Default View_TopLeft":"433,600",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:10.0 non-TLS-threadsafe
+#  -string -flagsOSRD
+preplace port IIC_0 -pg 1 -lvl 4 -x 1970 -y 1060 -defaultsOSRD
+preplace port port-id_tx0_tmg_n -pg 1 -lvl 4 -x 1970 -y 290 -defaultsOSRD
+preplace port port-id_rx0_tmg_n -pg 1 -lvl 0 -x -200 -y 160 -defaultsOSRD
+preplace port port-id_sfp_tmg_los -pg 1 -lvl 0 -x -200 -y 100 -defaultsOSRD
+preplace port port-id_rx0_tmg_p -pg 1 -lvl 0 -x -200 -y 130 -defaultsOSRD
+preplace port port-id_sfp_tmg_tx_dis -pg 1 -lvl 4 -x 1970 -y 230 -defaultsOSRD
+preplace port port-id_afe_clk_p -pg 1 -lvl 4 -x 1970 -y 320 -defaultsOSRD
+preplace port port-id_tx0_tmg_p -pg 1 -lvl 4 -x 1970 -y 260 -defaultsOSRD
+preplace port port-id_afe_clk_n -pg 1 -lvl 4 -x 1970 -y 350 -defaultsOSRD
+preplace port port-id_AFE0_MISO -pg 1 -lvl 0 -x -200 -y 1720 -defaultsOSRD
+preplace port port-id_AFE12_AFE_MISO -pg 1 -lvl 0 -x -200 -y 1750 -defaultsOSRD
+preplace port port-id_AFE34_AFE_MISO -pg 1 -lvl 0 -x -200 -y 1780 -defaultsOSRD
+preplace port port-id_AFE12_AFE_1_LDACN_OFF -pg 1 -lvl 4 -x 1970 -y 1750 -defaultsOSRD
+preplace port port-id_AFE12_AFE_1_CS_OFF -pg 1 -lvl 4 -x 1970 -y 1570 -defaultsOSRD
+preplace port port-id_AFE0_SCLK -pg 1 -lvl 4 -x 1970 -y 1270 -defaultsOSRD
+preplace port port-id_AFE12_AFE1_SEN -pg 1 -lvl 4 -x 1970 -y 1480 -defaultsOSRD
+preplace port port-id_AFE12_AFE_2_LDACN_OFF -pg 1 -lvl 4 -x 1970 -y 1810 -defaultsOSRD
+preplace port port-id_AFE0_CS_TRIM -pg 1 -lvl 4 -x 1970 -y 1330 -defaultsOSRD
+preplace port port-id_AFE0_CS -pg 1 -lvl 4 -x 1970 -y 1300 -defaultsOSRD
+preplace port port-id_AFE0_SDATA -pg 1 -lvl 4 -x 1970 -y 1390 -defaultsOSRD
+preplace port port-id_AFE34_AFE_1_LDACN_TRIM -pg 1 -lvl 4 -x 1970 -y 2080 -defaultsOSRD
+preplace port port-id_AFE0_CS_OFF -pg 1 -lvl 4 -x 1970 -y 1360 -defaultsOSRD
+preplace port port-id_AFE12_SDATA -pg 1 -lvl 4 -x 1970 -y 1660 -defaultsOSRD
+preplace port port-id_AFE34_AFE_2_CS_OFF -pg 1 -lvl 4 -x 1970 -y 1990 -defaultsOSRD
+preplace port port-id_AFE12_AFE_2_CS_OFF -pg 1 -lvl 4 -x 1970 -y 1630 -defaultsOSRD
+preplace port port-id_AFE34_AFE2_SEN -pg 1 -lvl 4 -x 1970 -y 1870 -defaultsOSRD
+preplace port port-id_AFE12_AFE_1_LDACN_TRIM -pg 1 -lvl 4 -x 1970 -y 1720 -defaultsOSRD
+preplace port port-id_AFE34_AFE_2_CS_TRIM -pg 1 -lvl 4 -x 1970 -y 1960 -defaultsOSRD
+preplace port port-id_AFE34_SCLK -pg 1 -lvl 4 -x 1970 -y 2050 -defaultsOSRD
+preplace port port-id_AFE12_SCLK -pg 1 -lvl 4 -x 1970 -y 1690 -defaultsOSRD
+preplace port port-id_AFE34_AFE1_SEN -pg 1 -lvl 4 -x 1970 -y 1840 -defaultsOSRD
+preplace port port-id_AFE34_AFE_1_CS_OFF -pg 1 -lvl 4 -x 1970 -y 1930 -defaultsOSRD
+preplace port port-id_AFE12_AFE_1_CS_TRIM -pg 1 -lvl 4 -x 1970 -y 1540 -defaultsOSRD
+preplace port port-id_AFE34_SDATA -pg 1 -lvl 4 -x 1970 -y 2020 -defaultsOSRD
+preplace port port-id_AFE12_AFE2_SEN -pg 1 -lvl 4 -x 1970 -y 1510 -defaultsOSRD
+preplace port port-id_AFE0_LDACN_OFF -pg 1 -lvl 4 -x 1970 -y 1450 -defaultsOSRD
+preplace port port-id_AFE34_AFE_1_CS_TRIM -pg 1 -lvl 4 -x 1970 -y 1900 -defaultsOSRD
+preplace port port-id_AFE0_LDACN_TRIM -pg 1 -lvl 4 -x 1970 -y 1420 -defaultsOSRD
+preplace port port-id_AFE12_AFE_2_CS_TRIM -pg 1 -lvl 4 -x 1970 -y 1600 -defaultsOSRD
+preplace port port-id_AFE12_AFE_2_LDACN_TRIM -pg 1 -lvl 4 -x 1970 -y 1780 -defaultsOSRD
+preplace port port-id_AFE34_AFE_1_LDACN_OFF -pg 1 -lvl 4 -x 1970 -y 2110 -defaultsOSRD
+preplace port port-id_AFE34_AFE_2_LDACN_TRIM -pg 1 -lvl 4 -x 1970 -y 2140 -defaultsOSRD
+preplace port port-id_AFE34_AFE_2_LDACN_OFF -pg 1 -lvl 4 -x 1970 -y 2170 -defaultsOSRD
+preplace port port-id_DACS_CS -pg 1 -lvl 4 -x 1970 -y 2230 -defaultsOSRD
+preplace port port-id_DACS_SCLK -pg 1 -lvl 4 -x 1970 -y 2200 -defaultsOSRD
+preplace port port-id_DACS_MOSI -pg 1 -lvl 4 -x 1970 -y 2260 -defaultsOSRD
+preplace port port-id_DACS_LDACN -pg 1 -lvl 4 -x 1970 -y 2290 -defaultsOSRD
+preplace port port-id_CM_SCLK -pg 1 -lvl 4 -x 1970 -y 1210 -defaultsOSRD
+preplace port port-id_CM_DOUT -pg 1 -lvl 4 -x 1970 -y 1150 -defaultsOSRD -right
+preplace port port-id_CM_DIN -pg 1 -lvl 4 -x 1970 -y 1180 -defaultsOSRD
+preplace portBus afe4_p -pg 1 -lvl 0 -x -200 -y 430 -defaultsOSRD
+preplace portBus afe4_n -pg 1 -lvl 0 -x -200 -y 460 -defaultsOSRD
+preplace portBus afe3_p -pg 1 -lvl 0 -x -200 -y 370 -defaultsOSRD
+preplace portBus afe3_n -pg 1 -lvl 0 -x -200 -y 400 -defaultsOSRD
+preplace portBus afe1_p -pg 1 -lvl 0 -x -200 -y 250 -defaultsOSRD
+preplace portBus afe1_n -pg 1 -lvl 0 -x -200 -y 280 -defaultsOSRD
+preplace portBus afe2_p -pg 1 -lvl 0 -x -200 -y 310 -defaultsOSRD
+preplace portBus afe2_n -pg 1 -lvl 0 -x -200 -y 340 -defaultsOSRD
+preplace portBus afe0_p -pg 1 -lvl 0 -x -200 -y 190 -defaultsOSRD
+preplace portBus afe0_n -pg 1 -lvl 0 -x -200 -y 220 -defaultsOSRD
+preplace portBus FAN_CONTROL -pg 1 -lvl 4 -x 1970 -y 620 -defaultsOSRD
+preplace portBus CM_CSn -pg 1 -lvl 4 -x 1970 -y 1240 -defaultsOSRD
+preplace portBus AFE_PD_RST -pg 1 -lvl 4 -x 1970 -y 930 -defaultsOSRD
+preplace portBus MUX_EN -pg 1 -lvl 4 -x 1970 -y 1010 -defaultsOSRD
+preplace portBus MUXA -pg 1 -lvl 4 -x 1970 -y 1100 -defaultsOSRD
+preplace inst ZYNQ_PS -pg 1 -lvl 1 -x 280 -y 810 -defaultsOSRD
+preplace inst smartconnect_0 -pg 1 -lvl 2 -x 860 -y 810 -defaultsOSRD
+preplace inst SYSTEM_RESET -pg 1 -lvl 1 -x 280 -y 540 -defaultsOSRD
+preplace inst IIC_RESET -pg 1 -lvl 2 -x 860 -y 1250 -defaultsOSRD
+preplace inst I2C_MASTER -pg 1 -lvl 3 -x 1430 -y 1230 -defaultsOSRD
+preplace inst xlconcat_0 -pg 1 -lvl 2 -x 860 -y 1070 -defaultsOSRD
+preplace inst INTERRUPTS -pg 1 -lvl 3 -x 1430 -y 640 -defaultsOSRD
+preplace inst CURRENT_MON_SPI -pg 1 -lvl 3 -x 1430 -y 1400 -defaultsOSRD
+preplace inst xlslice_0 -pg 1 -lvl 3 -x 1430 -y 510 -defaultsOSRD
+preplace inst SPI_MASTER_TOP_0 -pg 1 -lvl 3 -x 1430 -y 1890 -defaultsOSRD
+preplace inst AFE_PD_RST -pg 1 -lvl 3 -x 1430 -y 810 -defaultsOSRD
+preplace inst MUX_EN -pg 1 -lvl 3 -x 1430 -y 950 -defaultsOSRD
+preplace inst MUXA -pg 1 -lvl 3 -x 1430 -y 1090 -defaultsOSRD
+preplace inst DAPHNE3_0 -pg 1 -lvl 3 -x 1430 -y 180 -defaultsOSRD
+preplace netloc AFE0_MISO_0_1 1 0 3 NJ 1720 NJ 1720 1050J
+preplace netloc AFE12_AFE_MISO_0_1 1 0 3 NJ 1750 NJ 1750 1040J
+preplace netloc AFE34_AFE_MISO_0_1 1 0 3 NJ 1780 NJ 1780 1030J
+preplace netloc AFE_PD_RST_gpio_io_o 1 3 1 1670J 820n
+preplace netloc CURRENT_MON_SPI_io1_o 1 3 1 1660J 1180n
+preplace netloc CURRENT_MON_SPI_sck_o 1 3 1 1670J 1210n
+preplace netloc CURRENT_MON_SPI_ss_o 1 3 1 1680J 1240n
+preplace netloc DAPHNE3_0_afe_clk_n 1 3 1 1640J 220n
+preplace netloc DAPHNE3_0_afe_clk_p 1 3 1 1650J 200n
+preplace netloc DAPHNE3_0_sfp_tmg_tx_dis 1 3 1 1680J 140n
+preplace netloc DAPHNE3_0_tx0_tmg_n 1 3 1 1660J 180n
+preplace netloc DAPHNE3_0_tx0_tmg_p 1 3 1 1670J 160n
+preplace netloc SPI_MASTER_TOP_0_AFE0_CS 1 3 1 1700J 1300n
+preplace netloc SPI_MASTER_TOP_0_AFE0_CS_OFF 1 3 1 1720J 1360n
+preplace netloc SPI_MASTER_TOP_0_AFE0_CS_TRIM 1 3 1 1710J 1330n
+preplace netloc SPI_MASTER_TOP_0_AFE0_LDACN_OFF 1 3 1 1750J 1450n
+preplace netloc SPI_MASTER_TOP_0_AFE0_LDACN_TRIM 1 3 1 1740J 1420n
+preplace netloc SPI_MASTER_TOP_0_AFE0_SCLK 1 3 1 1690J 1270n
+preplace netloc SPI_MASTER_TOP_0_AFE0_SDATA 1 3 1 1730J 1390n
+preplace netloc SPI_MASTER_TOP_0_AFE12_AFE1_SEN 1 3 1 1760J 1480n
+preplace netloc SPI_MASTER_TOP_0_AFE12_AFE2_SEN 1 3 1 1770J 1510n
+preplace netloc SPI_MASTER_TOP_0_AFE12_AFE_1_CS_OFF 1 3 1 1790J 1570n
+preplace netloc SPI_MASTER_TOP_0_AFE12_AFE_1_CS_TRIM 1 3 1 1780J 1540n
+preplace netloc SPI_MASTER_TOP_0_AFE12_AFE_1_LDACN_OFF 1 3 1 1850J 1750n
+preplace netloc SPI_MASTER_TOP_0_AFE12_AFE_1_LDACN_TRIM 1 3 1 1840J 1720n
+preplace netloc SPI_MASTER_TOP_0_AFE12_AFE_2_CS_OFF 1 3 1 1810J 1630n
+preplace netloc SPI_MASTER_TOP_0_AFE12_AFE_2_CS_TRIM 1 3 1 1800J 1600n
+preplace netloc SPI_MASTER_TOP_0_AFE12_AFE_2_LDACN_OFF 1 3 1 1870J 1810n
+preplace netloc SPI_MASTER_TOP_0_AFE12_AFE_2_LDACN_TRIM 1 3 1 1860J 1780n
+preplace netloc SPI_MASTER_TOP_0_AFE12_SCLK 1 3 1 1830J 1690n
+preplace netloc SPI_MASTER_TOP_0_AFE12_SDATA 1 3 1 1820J 1660n
+preplace netloc SPI_MASTER_TOP_0_AFE34_AFE1_SEN 1 3 1 1880J 1840n
+preplace netloc SPI_MASTER_TOP_0_AFE34_AFE2_SEN 1 3 1 1890J 1870n
+preplace netloc SPI_MASTER_TOP_0_AFE34_AFE_1_CS_OFF 1 3 1 1910J 1930n
+preplace netloc SPI_MASTER_TOP_0_AFE34_AFE_1_CS_TRIM 1 3 1 1900J 1900n
+preplace netloc SPI_MASTER_TOP_0_AFE34_AFE_1_LDACN_OFF 1 3 1 NJ 2110
+preplace netloc SPI_MASTER_TOP_0_AFE34_AFE_1_LDACN_TRIM 1 3 1 1790J 2080n
+preplace netloc SPI_MASTER_TOP_0_AFE34_AFE_2_CS_OFF 1 3 1 1930J 1990n
+preplace netloc SPI_MASTER_TOP_0_AFE34_AFE_2_CS_TRIM 1 3 1 1920J 1960n
+preplace netloc SPI_MASTER_TOP_0_AFE34_AFE_2_LDACN_OFF 1 3 1 1900J 2150n
+preplace netloc SPI_MASTER_TOP_0_AFE34_AFE_2_LDACN_TRIM 1 3 1 1790J 2130n
+preplace netloc SPI_MASTER_TOP_0_AFE34_SCLK 1 3 1 1950J 2050n
+preplace netloc SPI_MASTER_TOP_0_AFE34_SDATA 1 3 1 1940J 2020n
+preplace netloc SPI_MASTER_TOP_0_DACS_CS 1 3 1 1660J 2190n
+preplace netloc SPI_MASTER_TOP_0_DACS_LDACN 1 3 1 1630J 2230n
+preplace netloc SPI_MASTER_TOP_0_DACS_MOSI 1 3 1 1640J 2210n
+preplace netloc SPI_MASTER_TOP_0_DACS_SCLK 1 3 1 1740J 2170n
+preplace netloc SYSTEM_RESET_peripheral_reset 1 1 2 610J 80 1030
+preplace netloc ZYNQ_PS_emio_ttc0_wave_o 1 1 2 640J 510 NJ
+preplace netloc ZYNQ_PS_pl_clk2 1 1 2 630J 90 1040
+preplace netloc afe0_n_0_1 1 0 3 -160J 180 NJ 180 1100J
+preplace netloc afe0_p_0_1 1 0 3 -170J 160 NJ 160 1080J
+preplace netloc afe1_n_0_1 1 0 3 -140J 220 NJ 220 1140J
+preplace netloc afe1_p_0_1 1 0 3 -150J 200 NJ 200 1120J
+preplace netloc afe2_n_0_1 1 0 3 -120J 260 NJ 260 1160J
+preplace netloc afe2_p_0_1 1 0 3 -130J 240 NJ 240 1150J
+preplace netloc afe3_n_0_1 1 0 3 -100J 300 NJ 300 1180J
+preplace netloc afe3_p_0_1 1 0 3 -110J 280 NJ 280 1170J
+preplace netloc afe4_n_0_1 1 0 3 -80J 340 NJ 340 1200J
+preplace netloc afe4_p_0_1 1 0 3 -90J 320 620J 310 1190J
+preplace netloc axi_iic_0_iic2intc_irpt 1 1 3 690 -110 NJ -110 1630
+preplace netloc axi_intc_0_irq 1 0 4 -90 640 NJ 640 1190J 730 1620
+preplace netloc axi_quad_spi_0_ip2intc_irpt 1 1 3 690 2290 NJ 2290 1620
+preplace netloc io0_i_0_1 1 3 1 1650J 1150n
+preplace netloc proc_sys_reset_0_peripheral_aresetn 1 1 2 660 580 1220
+preplace netloc proc_sys_reset_1_peripheral_aresetn 1 2 1 1230 1250n
+preplace netloc rx0_tmg_n_0_1 1 0 3 -180J 140 NJ 140 1070J
+preplace netloc rx0_tmg_p_0_1 1 0 3 -180J 120 NJ 120 1060J
+preplace netloc sfp_tmg_los_0_1 1 0 3 NJ 100 NJ 100 1050J
+preplace netloc xlconcat_0_dout 1 2 1 1050 670n
+preplace netloc xlslice_0_Dout 1 3 1 1660J 510n
+preplace netloc zynq_ultra_ps_e_0_pl_clk0 1 0 3 -160 950 670 980 1210
+preplace netloc zynq_ultra_ps_e_0_pl_clk1 1 1 2 680 1150 1060
+preplace netloc zynq_ultra_ps_e_0_pl_resetn0 1 0 2 -120 650 620
+preplace netloc zynq_ultra_ps_e_0_pl_resetn1 1 1 1 610 830n
+preplace netloc axi_gpio_0_gpio_io_o 1 3 1 1670 960n
+preplace netloc MUXA_gpio_io_o 1 3 1 N 1100
+preplace netloc axi_iic_0_IIC 1 3 1 1640J 1060n
+preplace netloc smartconnect_0_M00_AXI 1 2 1 1090 -50n
+preplace netloc smartconnect_0_M01_AXI 1 2 1 1110 -30n
+preplace netloc smartconnect_0_M02_AXI 1 2 1 1130 -10n
+preplace netloc smartconnect_0_M03_AXI 1 2 1 1180 760n
+preplace netloc smartconnect_0_M04_AXI 1 2 1 1200 610n
+preplace netloc smartconnect_0_M05_AXI 1 2 1 1160 800n
+preplace netloc smartconnect_0_M06_AXI 1 2 1 1140 820n
+preplace netloc smartconnect_0_M07_AXI 1 2 1 1110 840n
+preplace netloc smartconnect_0_M08_AXI 1 2 1 1090 860n
+preplace netloc smartconnect_0_M09_AXI 1 2 1 1230 790n
+preplace netloc zynq_ultra_ps_e_0_M_AXI_HPM0_LPD 1 1 1 650 730n
+preplace netloc smartconnect_0_M10_AXI 1 2 1 1150 900n
+preplace netloc smartconnect_0_M11_AXI 1 2 1 1120 920n
+levelinfo -pg 1 -200 280 860 1430 1970
+pagesize -pg 1 -db -bbox -sgen -360 -150 2200 2310
+"
+}
+{
+   "da_zynq_ultra_ps_e_cnt":"1"
+}
